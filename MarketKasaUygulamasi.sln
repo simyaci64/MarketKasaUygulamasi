@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketKasaApp", "MarketKasaApp\MarketKasaApp.csproj", "{F37D01B2-09C0-4E3A-8FC3-C0A933D2B72C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F37D01B2-09C0-4E3A-8FC3-C0A933D2B72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37D01B2-09C0-4E3A-8FC3-C0A933D2B72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37D01B2-09C0-4E3A-8FC3-C0A933D2B72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37D01B2-09C0-4E3A-8FC3-C0A933D2B72C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC3C2AFC-7CA2-4082-9A61-AFD8A89F96D5}
+	EndGlobalSection
+EndGlobal
